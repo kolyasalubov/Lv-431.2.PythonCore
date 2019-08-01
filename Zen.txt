@@ -9,3 +9,6 @@ The Zen of Python
 8.
 9.
 10.
+11. 
+12.
+13. Although that way may not be obvious at first unless you're Dutch.
