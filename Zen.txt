@@ -6,6 +6,6 @@ The Zen of Python
 5. Flat is better than nested.
 6.Sparse is better than dense.
 7.Special cases aren't special enough to break the rules.
-8.
+8.Readability counts.
 9.
 10.
