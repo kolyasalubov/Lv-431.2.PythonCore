@@ -2,8 +2,8 @@ The Zen of Python
 1.Beautiful is better than ugly.
 2.Explicit is better than implicit.
 3.Simple is better than complex.
-4. Complex is better than complicated.
-5. Flat is better than nested.
+4.Complex is better than complicated.
+5.Flat is better than nested.
 6.Sparse is better than dense.
 7.Special cases aren't special enough to break the rules.
 8.Readability counts.
@@ -12,6 +12,6 @@ The Zen of Python
 11.
 12.
 13.
-14.
+14.Although that way may not be obvious at first unless you're Dutch.
 15.
 16.Sparse is better than dense.
