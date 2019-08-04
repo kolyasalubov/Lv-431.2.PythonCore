@@ -8,4 +8,4 @@ The Zen of Python
 7.Special cases aren't special enough to break the rules.
 8.
 9.
-10.
+10.Errors should never pass silently.
